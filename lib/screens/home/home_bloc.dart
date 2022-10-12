@@ -5,5 +5,7 @@ class HomeBloc {
     PopularOffers(gegaperday: "10 GB", code: "asdad", validate: 30),
         PopularOffers(gegaperday: "5 GB", code: "asdad", validate: 30),
            PopularOffers(gegaperday: "5 GB", code: "asdad", validate: 30),
+           
   ];
 }
+
